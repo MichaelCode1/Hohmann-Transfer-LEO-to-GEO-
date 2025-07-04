@@ -9,4 +9,4 @@ This module is setup in the following way for each code box:
 - 4. Starship orbit transfer (with plot)
 - 5.  Starship orbit transfer (with plot of full ellipse)
 
-Note: this project was built in Google Colab. If using local machine ensure the proper libraries are downloaded.
+Note: this project was built in Google Colab. If using local machine ensure the proper libraries are downloaded. My notes contain some of my work figuring out this project and the theory.
