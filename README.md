@@ -1,6 +1,6 @@
 # Hohmann-Transfer-LEO-to-GEO-
 
-Purpose: This module was made to calculate the the fuel consumption and delta v values of a spacecraft transferring orbits. Moreover, I took the parameters of the SpaceX Starship to calculate the fule consupmtion needed for the most efficient maneuver possible to save on cost. This transfer could be practical for starship if is was transporting stallites to various orbites.
+Purpose: This module was made to calculate the the fuel consumption and delta v values of a spacecraft transferring orbits. Moreover, I took the parameters of the SpaceX Starship to calculate the fule consupmtion needed for the most efficient maneuver possible to save on cost. This transfer could be practical for Starship if is was transporting stallites to various orbites.
 
 This module is setup in the following way for each code box:
 - 1. Hohmann transfer with statc mass
